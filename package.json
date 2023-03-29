@@ -1,6 +1,6 @@
 {
-  "version": "1.1.5",
-  "name": "@mirai-protocol/mirai-interfaces",
+  "version": "1.0.1",
+  "name": "mirai-interfaces",
   "main": "index.js",
   "files": [
     "index.js",
